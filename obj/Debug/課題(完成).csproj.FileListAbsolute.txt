@@ -1,0 +1,12 @@
+c:\users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\bin\Debug\課題(完成).exe.config
+c:\users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\obj\Debug\課題(完成).csprojResolveAssemblyReference.cache
+c:\users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\obj\Debug\課題_完成_.Form1.resources
+c:\users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\obj\Debug\課題_完成_.Properties.Resources.resources
+c:\users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\obj\Debug\課題(完成).csproj.GenerateResource.Cache
+c:\users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\bin\Debug\課題(完成).exe
+c:\users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\bin\Debug\課題(完成).pdb
+c:\users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\obj\Debug\課題(完成).exe
+c:\users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\obj\Debug\課題(完成).pdb
+C:\Users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\obj\Debug\課題_完成_.Form2.resources
+C:\Users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\obj\Debug\課題_完成_.Form3.resources
+C:\Users\yuma\documents\visual studio 2012\Projects\課題(完成)\課題(完成)\obj\Debug\課題_完成_.Form4.resources
